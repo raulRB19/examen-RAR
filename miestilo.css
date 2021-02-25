@@ -1,4 +1,16 @@
-
+section {
+<<<<<<< HEAD
+    display: block;
+    width: 100%;
+    display: grid;
+=======
+    display: flex;
+>>>>>>> parent of b05d7ec (cambnios realizdos)
+    width: 98%;
+    height: 95vh;
+    padding: 10px;
+    background-color: blanchedalmond;
+  }
    
   div {
     background-color: palevioletred;
